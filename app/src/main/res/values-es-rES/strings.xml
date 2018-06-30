@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Solo la Java</string>
+    <string name="toppings">Ingredientes</string>
+    <string name="thank_you">Gracias!</string>
+    <string name="order_summary_name">Nombre</string>
+    <string name="quantity">Candidad</string>
+    <string name="whipped">Crema batida</string>
+    <string name="choco">Chocolat</string>
+</resources>
